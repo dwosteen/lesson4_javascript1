@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 11, 2017)
 
 ### Student Name:  
-(First and Last Name)
+Drayton O'Steen
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+adding elements to a personal expense calcualtor application 
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://dwosteen.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. using the  parseFloat() method to convert string variables to floats
+2. using getElementById to access elements in other sections
+3. reenforcing the use of basic maths in javascript formatting
 
